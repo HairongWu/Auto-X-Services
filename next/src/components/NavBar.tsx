@@ -43,7 +43,7 @@ export default function NavBar() {
             <div className="align-center flex h-16 flex-row justify-between">
               <div className="flex flex-shrink-0 cursor-pointer items-center lg:flex-1">
                 <Image
-                  src="/logos/dark-default-solid.svg"
+                  src="/logo.png"
                   width="25"
                   height="25"
                   alt="Auto-X"

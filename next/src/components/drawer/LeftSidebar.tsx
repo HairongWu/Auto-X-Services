@@ -40,7 +40,7 @@ const LeftSidebar = ({ show, setShow, onReload }: DisplayProps & { onReload?: ()
             href="https://reworkd.ai"
             className="flex cursor-pointer gap-2 rounded-lg border-t bg-white bg-gradient-to-b from-slate-4 to-transparent px-2.5 py-1.5 duration-1000 hover:from-slate-6"
           >
-            <Image src="/logos/light-default-solid.svg" width="20" height="20" alt="Auto-X" />
+            <Image src="/logo.png" width="20" height="20" alt="Auto-X" />
             <h1 className="text-sm font-medium">Auto-X</h1>
           </a>
         </div>
