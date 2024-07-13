@@ -22,6 +22,19 @@
    ```
 4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
 
+## Service Plans
+- Auto-X Clinic (based on OpenClinic GA and Open Hospital)
+- Auto-X IDE (based on theia)
+- Auto-X Search (based on SWIRL AI Connect and Perplexica)
+
+- Auto-X ERP (based on ERPNext)
+- Auto-X Finance (based on FinGPT)
+- Auto-X Insurance (based on openIMIS)
+- Auto-X EDA (based on KiCad)
+- Auto-X CAD (based on FreeCAD)
+
+- Auto-X Consultant (All-In-One)
+
 ## References
 
-- [AgentGPT](https://github.com/HairongWu/Auto-X-Services)
+- [AgentGPT](https://github.com/reworkd/AgentGPT)

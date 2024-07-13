@@ -3,7 +3,7 @@ from pathlib import Path
 from tempfile import gettempdir
 from typing import List, Literal, Optional, Union
 
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 from yarl import URL
 
 from reworkd_platform.constants import ENV_PREFIX
@@ -169,7 +169,7 @@ class Settings(BaseSettings):
             ]
         )
 
-    class Config:
+    class ConfigDict:
         env_file = ".env"
         env_prefix = ENV_PREFIX
         env_file_encoding = "utf-8"
