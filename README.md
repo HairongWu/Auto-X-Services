@@ -1,4 +1,7 @@
 # Auto-X Services
+<div  align="center">
+  <img src="framework.png" width="500"/>
+</div>
 
 ## Getting Started :rocket:
 1. **Open your editor**
