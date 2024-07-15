@@ -14,13 +14,13 @@
    **For Mac/Linux users** :apple: :penguin:
    ```bash
    git clone https://github.com/HairongWu/Auto-X-Services.git
-   cd AgentGPT
+   cd Auto-X-Services
    ./setup.sh
    ```
    **For Windows users** :windows:
    ```bash
    git clone https://github.com/HairongWu/Auto-X-Services.git
-   cd AgentGPT
+   cd Auto-X-Services
    ./setup.bat
    ```
 4. **Follow the setup instructions from the script** - add the appropriate API keys, and once all of the services are running, travel to [http://localhost:3000](http://localhost:3000) on your web-browser.
