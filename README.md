@@ -27,7 +27,6 @@
 
 ## Service Plans
 - Auto-X Clinic (based on OpenClinic GA and Open Hospital)
-- Auto-X IDE (based on theia)
 - Auto-X Search (based on SWIRL AI Connect and Perplexica)
 
 - Auto-X ERP (based on ERPNext)

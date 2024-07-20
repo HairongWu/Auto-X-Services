@@ -18,6 +18,7 @@ const ExampleAgents = ({ setAgentRun, setShowSignIn }: ExampleAgentsProps) => {
     <>
       <FadeIn delay={0.9} duration={0.5}>
         <div className="my-2 grid grid-cols-1 items-stretch gap-2 sm:my-4 sm:grid-cols-3">
+
           <ExampleAgentButton name="Virtual Clinic" setAgentRun={setAgentRun}>
           Digital human based auto admission/diagnosis/treatment with Auto-X Agents
           </ExampleAgentButton>
@@ -26,9 +27,11 @@ const ExampleAgents = ({ setAgentRun, setShowSignIn }: ExampleAgentsProps) => {
           Search local or internet information using local LLMs such as Llama3 and Mixtral with Auto-X Agents.
           </ExampleAgentButton>
 
-          <ExampleAgentButton name="IDE" setAgentRun={setAgentRun}>
-          Automate the system development or maintenance process using Auto-X Agents.
+          <ExampleAgentButton name="ERP" setAgentRun={setAgentRun}>
+          Search local or internet information using local LLMs such as Llama3 and Mixtral with Auto-X Agents.
           </ExampleAgentButton>
+
+          
         </div>
         
       </FadeIn>
